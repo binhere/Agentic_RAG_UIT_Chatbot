@@ -7,7 +7,7 @@ Take a look two demos to see more.
 
 **Filter_Agent -> Retrieve_Agent -> Search_Agent**
 
-Filter_Agent: filters all input queries to avoid wasting resources to retrieve toxic, out-of-domain, abused or English queries.
-Retrieve_Agent: use a tool to retrieve the vector database to find out the top k relevant documents.
+Filter_Agent: filters all input queries to avoid wasting resources to retrieve toxic, out-of-domain, abused or English queries. <br>
+Retrieve_Agent: use a tool to retrieve the vector database to find out the top k relevant documents. <br>
 Search_Agent: use a tool to search for extra information that does not exist in the database.
 
