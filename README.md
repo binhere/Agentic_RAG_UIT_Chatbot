@@ -1,6 +1,6 @@
-This is updated version of "RAG-UIT-QA-Chatbot"
-Leveraging Qdrant vector database from "RAG-UIT-QA-Chatbot" project, I turn the old project into Agentic system supporting searching extra information on internet.
-However, in some cases, it is difficult to control this multi-agent system's behavior. 
+This is updated version of "RAG-UIT-QA-Chatbot" <br>
+Leveraging Qdrant vector database from "RAG-UIT-QA-Chatbot" project, I turn the old project into Agentic system supporting searching extra information on internet. <br>
+However, in some cases, it is difficult to control this multi-agent system's behavior. <br>
 Take a look two demos to see more.
 
 # System architecture
